@@ -1,0 +1,37 @@
+body
+{
+	margin: 0;
+	padding: 10px;
+	min-width: 400px;
+}
+input
+{
+	width:100%;
+	box-sizing: border-box;
+	padding:10px;
+	border:1px solid green;
+	margin-bottom: 10px;
+}
+button
+{
+	background-color: #5f9341;
+	padding: 10px 10px 10px 10px;
+	border: none;
+	font-weight: bold;
+	color: white;
+}
+ul{
+	list-style: none;
+	padding-left:0px ;
+}
+ul li a{
+	color: #5f9341;
+	
+	margin-top: 5px;
+
+}
+#del-btn{
+	background: white;
+	color: #5f9341;
+	border: 1px solid #5f9341;
+}
